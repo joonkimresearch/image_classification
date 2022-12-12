@@ -4,4 +4,5 @@
 * Reference: DataQuest
 * Tools: Tensorflow
 * Prediction Samples
+
 ![prediction result](image_classification_result.png)
