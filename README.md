@@ -5,4 +5,4 @@
 * Tools: Tensorflow
 * Prediction Samples
 
-![prediction result](image_classification_result.png)
+![prediction result](prediction.jpg)
